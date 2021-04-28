@@ -644,9 +644,6 @@
     <!-- If true, the display will be shifted around in ambient mode. -->
     <bool name="config_enableBurnInProtection">true</bool>
 
-    <!-- Enable doze alwaysOn Display -->
-    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
-
     <!-- The default journal mode to use use when Write-Ahead Logging is not active.
          Choices are: OFF, DELETE, TRUNCATE, PERSIST and MEMORY.
          PERSIST may improve performance by reducing how often journal blocks are
